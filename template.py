@@ -9,7 +9,7 @@ token = "urtoken"
 
 
 
-#the middle remove all the # texts when u start the code (ADD AS MUCH CODE AS U WANT IN THE MIDDLE) (the code cant be bot.command it must be client.command instead)
+#the middle remove all the # texts when u start the code (ADD AS MUCH CODE AS U WANT IN THE MIDDLE) (the code cant be bot.command it must be client.command instead)#
 
 
 
