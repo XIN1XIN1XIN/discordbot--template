@@ -13,6 +13,10 @@ token = "urtoken"
 
 
 
-#end the code#
+#end the code (dont add any code under here)#
+
+@client.event
+async def on_ready():
+    print("ready")
 
 client.run(token)
