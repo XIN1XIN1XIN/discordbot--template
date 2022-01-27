@@ -1,4 +1,5 @@
-# discordbot--template join https://discord.gg/wsdZPuqMFP
+# discordbot--template 
+# check out my profile for more tools,scripts,etc 
 
 discord bot template to make ur bot
 
