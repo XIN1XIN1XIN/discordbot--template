@@ -1,5 +1,5 @@
 # discordbot--template 
-# check out my profile for more tools,scripts,etc 
+# check out my profile for more tools,scripts,etc ( https://github.com/XINSDEATH )
 
 discord bot template to make ur bot
 
